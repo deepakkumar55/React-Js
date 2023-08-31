@@ -29,8 +29,6 @@
 
 **2. React Fundamentals:**
 
--
-
 **Components:**
 Components are the building blocks of any React application. They are encapsulated units of UI that can be reused throughout your app. Components can be classified into two main types: class components and functional components.
 
